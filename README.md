@@ -1,1 +1,1 @@
-# ML-tahmin-rnek
+# ML tahmin örnek
